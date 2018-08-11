@@ -1,0 +1,18 @@
+* JQuery:
+   jquery is a java script library which works as "write less do more" .
+   The purpose of jquery is to make it much easier to use javascript on your web page.
+   jquery also simplifies lot of complicated things from javascript like Dom manipulation,ajax calls.
+* Syntax of JQuery:
+   $(document).ready(function(){
+                                //jquery method goes here
+								});
+* Jquery method should always write in a script tag under header.
+
+* $ sign defines or access jquery.
+
+* $(document).ready helps to load a complete web page successfully.
+
+* $(selector) used to find html elements in a webpage.
+
+* click and hide method are predefined methods in jQuery.
+
